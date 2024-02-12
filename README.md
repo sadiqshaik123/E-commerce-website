@@ -23,7 +23,7 @@ This repository contains the HTML and CSS source code for a basic Ecommerce Shop
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username simple-ecommerce-website.git
+   git clone [https://github.com/your-username simple-ecommerce-website.git](https://github.com/sadiqshaik123/E-commerce-website.git)
 
 2. Open index.html in your web browser to view the website.
 
