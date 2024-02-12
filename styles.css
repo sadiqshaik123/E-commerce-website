@@ -85,7 +85,8 @@ body {
   .search-input {
     padding: 8px;
     border: 0px solid white;
-    width: 80%; /* Adjust the width as needed */
+    width: 80%; 
+      
     
   }
 
